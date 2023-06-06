@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.EightBall {
+  color: #fff;
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.EightBall-message {
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+}
